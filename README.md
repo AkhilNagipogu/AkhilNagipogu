@@ -1,6 +1,13 @@
-## Hi there 👋
+# Hi, I'm Akhil 👋
+
+## 17-year-old student exploring Homelabing, Electronics, and Coding
+
+I enjoy experimenting with servers, playing with hardware, and building things through code.  
+Always learning, always trying new ideas, and always improving.
 
 
+- 🔭 I’m currently working on building my own linux os
+- 🌱 I’m currently learning c
 
 
 

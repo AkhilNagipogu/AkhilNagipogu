@@ -14,6 +14,19 @@ Always learning, always trying new ideas, and always improving.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagipogu_akhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilnagipogu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@akhil.co.in) 
 
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/akhilnagipogu/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/nagipogu_akhil/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
+  </a>
+  <a href="https://akhil.co.in/">
+    <img src="https://cdn-icons-png.flaticon.com/512/4305/4305028.png" height="40" alt="Website">
+  </a>
+</p>
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:

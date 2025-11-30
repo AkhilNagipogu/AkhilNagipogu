@@ -10,10 +10,6 @@ Always learning, always trying new ideas, and always improving.
 - 🌱 I’m currently learning c
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagipogu_akhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilnagipogu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@akhil.co.in) 
-
 ## 🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/akhilnagipogu/">

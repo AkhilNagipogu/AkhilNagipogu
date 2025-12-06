@@ -1,16 +1,32 @@
-# Hi, I'm Akhil 👋
+# Hi, I'm Akhil 👋  
 
-## 17-year-old student exploring Homelabing, Electronics, and Coding
+🚀 **BTech CSE (1st Year) Student | Linux & Homelab Enthusiast | Open-Source Learner**
 
-I enjoy experimenting with servers, playing with hardware, and building things through code.  
-Always learning, always trying new ideas, and always improving.
+I’m a 17-year-old Computer Science student who enjoys building and self-hosting systems, experimenting with Linux internals, and learning programming from the ground up.  
+I like understanding **how things work behind the scenes**, not just using high-level tools.
 
+Currently focused on Linux systems, C programming, and practical hands-on projects.
 
-- 🔭 I’m currently working on building my own linux os
-- 🌱 I’m currently learning c
+---
 
+## 🛠️ What I’m Working On
 
-## 🌐 Connect With Me  
+- 🔹 **Building a Minimal Linux OS (WIP)**  
+  Learning about bootloaders, kernels, system initialization, and low-level OS concepts.
+
+- 🔹 **Homelab & Self-Hosting**
+  - Media streaming using Jellyfin  
+  - Network-wide ad blocking with Pi-hole  
+  - Dockerized services  
+  - Secure access using Cloudflare tunnels  
+
+- 🔹 **Learning C Programming**
+  Building a strong foundation in memory management, pointers, and system-level concepts.
+
+---
+
+## 🌐 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/akhilnagipogu/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
@@ -23,31 +39,25 @@ Always learning, always trying new ideas, and always improving.
   </a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkhilNagipogu&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkhilNagipogu&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilNagipogu&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkhilNagipogu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilNagipogu&theme=blue_navy&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AkhilNagipogu&theme=blue_navy&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilNagipogu&theme=blue_navy&hide_border=false&layout=compact)
 
+---
 
-<!--
-**AkhilNagipogu/AkhilNagipogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://visitcount.itsvg.in/api?id=AkhilNagipogu&icon=0&color=0)

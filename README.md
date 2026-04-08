@@ -2,7 +2,7 @@
 
 🚀 **BTech CSE (1st Year) Student | Linux & Homelab Enthusiast | Open-Source Learner**
 
-I’m a 17-year-old Computer Science student who enjoys building and self-hosting systems, experimenting with Linux internals, and learning programming from the ground up.  
+I’m a 18-year-old Computer Science student who enjoys building and self-hosting systems, experimenting with Linux internals, and learning programming from the ground up.  
 I like understanding **how things work behind the scenes**, not just using high-level tools.
 
 Currently focused on Linux systems, C programming, and practical hands-on projects.
